@@ -1,0 +1,3 @@
+chainlit
+litellm
+python-dotenv
